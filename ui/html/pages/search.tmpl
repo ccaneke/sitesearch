@@ -1,0 +1,13 @@
+{{define "title"}}Search{{end}}
+{{define "main"}}
+<form method="get" role="search">
+    <center>
+
+        <input type="search" name="q" maxlength="2048">
+    </center>
+    <center>
+        <input type="submit" formaction="/comments" value="Search comments">
+        <input type="submit" formaction="/posts" value="Search Posts">
+    </center>
+</form>
+{{end}}
