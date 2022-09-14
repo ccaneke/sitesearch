@@ -13,7 +13,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	"github.com/ccaneke/redithistory/cmd/web/response"
+	"github.com/ccaneke/sitesearch/cmd/web/response"
 	"github.com/google/uuid"
 )
 
