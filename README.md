@@ -7,4 +7,4 @@ Check supported websites below
 
 ### Supported websites
 - [x] Reddit
-- [ ] Hackernews (TBA)
+- [ ] Hacker News (TBA)
