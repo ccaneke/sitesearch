@@ -5,6 +5,14 @@ Search your account history on your favorite websites
 
 Check supported websites below
 
-### Supported websites
+## How to run
+
+```
+git clone https://github.com/ccaneke/sitesearch.git
+cd sitesearch
+go run ./cmd/web
+```
+
+## Supported websites
 - [x] Reddit
 - [ ] Hacker News (TBA)
