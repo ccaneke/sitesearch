@@ -1,4 +1,4 @@
-module github.com/ccaneke/redithistory
+module github.com/ccaneke/sitesearch
 
 go 1.18
 
